@@ -4,14 +4,14 @@ https://github.com/ChrisTitusTech/winutil
 Disable Defender ( Broke MS Store)
 https://github.com/lostzombie/AchillesScript
 
-2.Debloat Nvidia Driver
+## 2.Debloat Nvidia Driver
 https://www.techpowerup.com/download/techpowerup-nvcleanstall/
 3.Setup MSI Mode and GPU Affinity
 https://github.com/valleyofdoom/AutoGpuAffinity
 
-4. NV Inspector Tweaks
+## 4. NV Inspector Tweaks
 
-5. Bcdedit 
+## 5. Bcdedit 
 Dynamic Tick Rate disable
 
 
