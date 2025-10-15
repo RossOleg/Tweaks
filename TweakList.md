@@ -15,6 +15,10 @@ https://github.com/valleyofdoom/AutoGpuAffinity
 ## 5. Bcdedit 
 Dynamic Tick Rate disable
 
+## 6.LAN
+NDIS Realtek 2.5Gb Driver Support RSS
+NetAdapterCx didnt Support it
+
 
 
 https://signalrgb.com/
